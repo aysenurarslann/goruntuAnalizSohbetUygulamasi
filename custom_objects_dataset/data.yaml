@@ -1,0 +1,16 @@
+names:
+  0: shoe
+  1: handbag
+  2: backpack
+  3: bottle
+  4: cup
+  5: sandwich
+  6: laptop
+  7: cell phone
+  8: book
+  9: cake
+  10: chair
+  11: table
+path: custom_objects_dataset
+train: train/images
+val: val/images
